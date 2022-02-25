@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offer'd, why a duty should not be laid on sugars</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58267</idno>
+            <idno type="STC">Wing R562</idno>
+            <idno type="STC">ESTC R6539</idno>
+            <idno type="EEBO-CITATION">12801063</idno>
+            <idno type="OCLC">ocm 12801063</idno>
+            <idno type="VID">94044</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58267)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94044)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 776:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offer'd, why a duty should not be laid on sugars</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Broadside.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sugar --  Taxation --  England.</term>
+               <term>Duty-free importation of sugar --  England.</term>
+               <term>Tariff on sugar --  England.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:94044:1" rendition="simple:additions"/>
+            <head>
+               <hi>REASONS</hi> Humbly Offer'd, why a Duty ſhould not be laid on <hi>Sugars.</hi>
+            </head>
+            <p>IN laying Taxes upon Trade, 'tis true that the heavieſt Part of the Duties ought to lie upon Goods Imported, becauſe the Conſumption being within Our ſelves, the Conſumer is ſuppoſed to pay the Duty: but Sugars Imported from Our own Colonies have ſeveral juſt Exceptions from this Rule, which quite alter the Caſe.</p>
+            <p n="1">1. <hi>The Plantations are a Part of Ourſelves,</hi> tho' they are plac'd Remote; the Goods they tranſmit hither ought to be eſteem'd Our own Manufacture and Growth, and to be uſed accord<g ref="char:EOLhyphen"/>ingly.</p>
+            <p>The Miſtake in this particular Point has been a great Occa<g ref="char:EOLhyphen"/>ſion of Our Burthening the Plantations in <hi>America;</hi> by which they have been diſcouraged, and their Neighbour-Colonies encreaſed.</p>
+            <p>To ſpeak of Our Sugar-Colonies in particular.</p>
+            <p>The Product of them (except what is ſpent in Our own Colo<g ref="char:EOLhyphen"/>nies) <hi>is wholly tranſmitted to</hi> England. <hi>Here is their Market;</hi> here their <hi>Profits are made; and here they,</hi> who get Eſtates there, <hi>retire to live and ſpend them: Here they buy all their Neceſſaries;</hi> ſo much as the Cloths they wear, and great part of the Food they eat: There is no One Argument which can be uſed to denominate the Iſle of <hi>Wight</hi> to be part of <hi>England,</hi> but what holds good for theſe Colonies, the Diſtance of Place excepted; and that's an Article which makes it ſtill more Beneficial to us; for it is much more to our Advantage that thoſe Iſlands ſtand as they do, than if they lay in the Channel as the <hi>Wight</hi> does. The Employment of Seamen and Shipping, <hi>and the great Price they give for Our Manufactures,</hi> is a Demonſtration beyond the Power of Argument to prove it.</p>
+            <p>If Sugar, Cotton, and Ginger, were the Product of the Iſle of <hi>Wight,</hi> 'tis preſum'd we ſhould count them Our own Growth, and be very tender of them; 'tis plain they are as much Our own now, and to much more Advantage, and ought therefore as much to be valued and protected.</p>
+            <p>The Planters are <hi>Engliſhmen</hi> of our own People, they neither Buy nor Sell with any but our ſelves, <hi>they Conſume Ten times more ☜ of our own Product and Manufactures, than the like Number of any of
+<pb n="2" facs="tcp:94044:2"/>our own People in</hi> England, <hi>any pay Three times the Price for it;</hi> they make the return of all their Induſtry and Labour to us; this is the Center of their Wealth, <hi>the Place where they lay it up, and where their Poſterity ſpend it;</hi> therefore to Burthen them, is to Ruin the moſt Profitable and moſt Induſtrious part of our own Body.</p>
+            <p>But 'tis Objected, <hi>That though this be true, it does not appear that laying a Duty on their Goods here can be a Burthen or Ruin to their Trade, it being rais'd here not there, and paid by the Im<g ref="char:EOLhyphen"/>porter, and to him again by the Retailer, and at laſt by the Con<g ref="char:EOLhyphen"/>ſumer, in the Prices of the Goods; all Taxes in general being ſup<g ref="char:EOLhyphen"/>poſed to be paid by the laſt Buyer.</hi>
+            </p>
+            <p>This were a good Argument, if ſad Experience had not made it appear to be a miſtake; and to convince thoſe who are of another Opinion, 'twill be neceſſary a little to examine the Hiſtory of the Trade, and of the laſt Duty impoſed upon it.</p>
+            <p>Our Sugar Trade, in general, is but a young Manufacture, and dates its Original within the Memory of ſome Perſons now living, and is, perhaps, the greateſt improv'd Trade, and the moſt Profi<g ref="char:EOLhyphen"/>table to <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngland,</hi> that is, or ever was in the World. The firſt cauſe of its riſe was from the Indiſcretion of the <hi>Portugueſe,</hi> who preſuming upon their being Maſters of the Sugar-Trade in the <hi>Braſills,</hi> laid a heavy Tax on their own Sugar, which encourag'd our Iſland of <hi>Barbadoes,</hi> to whom firſt the way of making of Sugar was diſcover'd, to run into the Trade; and it has been in vain that the <hi>Portugueſe</hi> ſaw their Error, and have ſince endeavour'd to re<g ref="char:EOLhyphen"/>trieve it. This is ſo direct an Example, 'tis needleſs to argue it. And whoever knows the Sugar-Trade, cannot be ignorant, that it is not impoſſible to be loſt by the ſame Error by which it was gain'd.</p>
+            <p>In the Reign of the late King <hi>James</hi> an additional Duty was laid upon Sugar, notwithſtanding all the Remonſtrances of the Traders and Planters to the contrary; and yet even then nothing but the pretence that the Duty wou'd not affect the Planters but lye on the Conſumer, with a Promiſe of His Majeſty to remit it if it prov'd otherwiſe, could make it ſeem tolerable.</p>
+            <p>But when time demonſtrated the ſad effect it had on the Planter, and they applied for Relief, they were anſwer'd, <hi>'Twas an <g ref="char:V">Ʋ</g>nman<g ref="char:EOLhyphen"/>nerly thing to put His Majeſty in mind of His Promiſe.</hi>
+            </p>
+            <p>'Tis true, if Sugar was Planted and Cur'd in <hi>England,</hi> the Duty might lye on the Conſumer, as in other Caſes it does; but here the Caſe differs exceedingly.</p>
+            <p>The Planter is the Seller at our Market, the Merchant here is but the Factor; when the Planter Ships his Sugars for <hi>England</hi> he con<g ref="char:EOLhyphen"/>ſigns them to his Factor to be Sold for him, and generally draws Bills upon his Factor for as much as he ſuppoſes the Produce to be, and ſometimes more.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon laying the Duty abovementioned, the Experiment was made;</hi> the Factor had two ways to manage the Sugars and Bills, and no more.</p>
+            <pb n="3" facs="tcp:94044:2"/>
+            <list>
+               <item>1. To Accept the Bills abſolutely. Or,</item>
+               <item>2. Conditionally.</item>
+            </list>
+            <p>If he accepted the Bills abſolutely, he would then ſell the Goods at the Market-price, let it be what it would, to enable him to comply with the Payment; and if the Produce did not make it good, the Planter remain'd Debtor to the Ballance, ſo the Loſs return'd upon him.</p>
+            <p>If he accepted the Bills conditionally, that is, to pay when the Goods are ſold: If the Goods did not ſell in time, the Bills went back proteſted, or elſe were Noted, and lay here at Intereſt and Charges. By both which the Planter was a conſiderable Loſer both in Money and Reputation.</p>
+            <p>The Buyers here knowing too well theſe Methods of their Trade, and that of Neceſſity the Factor muſt ſell for the Reaſons aforeſaid, refuſed to advance in Price notwithſtanding the Duty, and with<g ref="char:EOLhyphen"/>held buying by a General Conſent, and the Conſequence ſoon an<g ref="char:EOLhyphen"/>ſwer'd their Expectation, for <hi>the Factors were forced to ſell at the old Price to ſupport the Credit both of themſelves and their Prin<g ref="char:EOLhyphen"/>cipals.</hi>
+            </p>
+            <p>But ſome of the moſt Conſiderable Factors being willing to try all poſſible Ways for their Employers, ſhipp'd off great Quanti<g ref="char:EOLhyphen"/>ties for <hi>Holland, Hambourgh,</hi> and other Parts, but thoſe Markets being not able to take off the Quantities, and the Bills ſtill following the Goods, to enable the Exporter to pay the Planters Bills, as above, the very ſame thing follow'd Abroad, the Goods were forced to be ſold to raiſe the Money, and the Loſs fell ſtill upon the poor Planter.</p>
+            <p>Thus, whoever pays the Money, the Planter bears the Loſs, and is left in Debt, and conſequently Undone; for 'tis quite another thing to be in Debt in the <hi>Weſt-Indies</hi> than 'tis in <hi>England.</hi>
+            </p>
+            <p>That the Planter is not able to bear the Duty, at leaſt, at this time, is the next thing to be proved, and that is as plain as the other. The War which has laſted now nine Years, has been a General Prejudice to all Trade, but to the <hi>Weſt-India</hi> Trade in particular: And in the <hi>Weſt Indies,</hi> the Iſlands of <hi>Barbadoes</hi> and <hi>Jamaica</hi> have been as it were deſtin'd to be Ruin'd, having beſides the War had a Complication of Diſaſters, <hi>as the dreadful Earth<g ref="char:EOLhyphen"/>quake, and the Inſurrection of the Negroes at</hi> Jamaica, <hi>the Loſs of Three or Four entire Fleets from</hi> Barbadoes, by Diſaſter of Weather and Hurricanes, together with <hi>a Diſtemper brought amongſt them by the Men of War,</hi> little better than the Plague, which ſwept away great Numbers of their Inhabitants.</p>
+            <p>Alſo they have raiſed Forces, and fitted out Ships at their own Charge for ſeveral Expeditions; and in ſhort, beſides their Loſſes at Sea by the <hi>French,</hi> with the Ruin of great part of <hi>Jamaica,</hi> and St. <hi>Chriſtophers,</hi> by their Deſcents, have raiſed larger Taxes on their Eſtates than has been paid by us at home; <hi>by which Means ☜ there is not half the Sugar planted in the</hi> Weſt-Indies <hi>that was be<g ref="char:EOLhyphen"/>fore the War.</hi>
+            </p>
+            <pb n="4" facs="tcp:94044:3"/>
+            <p>After all this, now Peace is obtain'd and Trade revives, to lay a Tax upon Sugar would be the ſame thing to them as a Continuance of the War, and the whole Iſlands muſt fall under a viſible Decay ☞ by it. <hi>Which ought to be eſteem'd as a Decay of our own Strength and Trade, becauſe it will of conſequence leſſen the Conſumption of our Ma<g ref="char:EOLhyphen"/>nufactures, and abate the Number of our Seamen and Shipping, which are the Wealth and Strength of the Nation.</hi>
+            </p>
+            <p>There are many other Arguments to prove the nature of the Trade or Art of Planting cannot bear it; as, The Soil requiring more Charge to Manure and Plant it, than formerly it did; Su<g ref="char:EOLhyphen"/>gars bearing a leſs Price than at firſt; the multitude of Caſualties and Miſcarriages the Plantations and Management of Sugar are conſtantly ſubject to, more than any other Manufacture or Planta<g ref="char:EOLhyphen"/>tion in the world; with the more than uſual difficulty and length of time requir'd to recover thoſe Miſcarriages; with the ſeveral high Duties and Taxes raiſed in the Country, beſides what they pay already in <hi>England,</hi> which together is not leſs than 30 <hi>per Cent.</hi> on the real Value of their Sugars; <hi>with an Impoſſibility of raiſing the Price, the Markets being abſolutely governed by the Quantities, not the Coſt of the Sugars, which returns all Taxes on the Planter.</hi>
+            </p>
+            <p>Nor are they reliev'd by the Exportation here, tho' the Duty be drawn back; for all Exportations from hence, excepting what are occaſion'd by a Demand from abroad, always returns a Loſs, Fo<g ref="char:EOLhyphen"/>reigners being too well acquainted with the reaſon of ſuch forced Exportations; of which we had plain Examples in the time of the Duties before-mentioned.</p>
+            <p>We dare not ſay what effect this may have upon men who are put under deſperate Circumſtances, as theſe muſt be, the Conſe<g ref="char:EOLhyphen"/>quence being the compleat Ruin of the Trade. <hi>For if the poorer Planters, who are by far more numerous than the Rich, are ruined, and the Rich come to live on their Eſtates, and abate planting Sugar,</hi> which they do for gain, and will do no longer than they gain by it, <hi>the ☞ Negroes will be ſold off to other Nations,</hi> the Strength and Trade will decline, the Inhabitants will decreaſe, they will Plant for Proviſi<g ref="char:EOLhyphen"/>ons, and muſt be defended by a Gariſon, <hi>or they will be taken by the firſt</hi> European <hi>Nation we quarrel with.</hi>
+            </p>
+            <p>There being ſuch a Chain of fatal Conſequences attending <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as well as the Iſlands and Planters, it's hop'd, That the Sum propoſed to be rais'd on Sugars, may be levied on Wines, Brandies, <hi>&amp;c.;</hi> which will raiſe it more effectually, and with much leſs Prejudice to <hi>England</hi> in general, thoſe Commodities being purchas'd chiefly with our Ready Money, and the leſs of them we conſume, the Richer we are: Whereas Sugar is our own Produce, raiſed by the Expence of our own Manu<g ref="char:EOLhyphen"/>factures, and the Induſtry of our own People, and we are not the poorer for the Conſumption.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
